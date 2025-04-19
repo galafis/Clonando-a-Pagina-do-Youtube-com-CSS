@@ -16,7 +16,7 @@ Este projeto é um clone simplificado da interface principal do YouTube, desenvo
 
 ## 👨‍💻 Desenvolvido por
 
-Estudante universitário de Ciência de Dados, integrando design e desenvolvimento para criar interfaces funcionais e organizadas.
+Por mim, estudante universitário de Ciência de Dados, integrando design e desenvolvimento para criar interfaces funcionais e organizadas.
 
 ## 🔗 Protótipo
 

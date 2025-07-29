@@ -21,3 +21,23 @@ Por mim, estudante universitário de Ciência de Dados, integrando design e dese
 ## 🔗 Protótipo
 
 [Figma Oficial](https://www.figma.com/design/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0-1&p=f)
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.

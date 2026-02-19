@@ -1,5 +1,13 @@
 # Clone do YouTube - Desafio Flexbox DIO
 
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-Layout-blueviolet?style=for-the-badge)
+
+</div>
+
 ![Imagem Hero do Projeto](imagens/thumb.png)
 
 Este projeto é um clone simplificado da interface principal do YouTube, desenvolvido como parte do desafio de CSS com Flexbox da DIO.
@@ -15,6 +23,28 @@ Este projeto é um clone simplificado da interface principal do YouTube, desenvo
 - `index.html` - Estrutura da página
 - `style.css` - Estilização com Flexbox
 - `imagens/` - Ícones e avatar
+
+## 🗺️ Arquitetura de Componentes
+
+```mermaid
+graph TD
+    A[Página YouTube Clone] --> B[Header / Barra de Navegação]
+    A --> C[Barra Lateral]
+    A --> D[Conteúdo Principal]
+
+    B --> B1[Logo YouTube]
+    B --> B2[Campo de Busca]
+    B --> B3[Ícones de Ação\nNotificações · Avatar]
+
+    C --> C1[Menu de Navegação\nInício · Explorar · Inscrições]
+    C --> C2[Canais Inscritos]
+
+    D --> D[Grade de Vídeos\nFlex Wrap]
+    D --> E1[Card de Vídeo]
+    E1 --> F1[Thumbnail]
+    E1 --> F2[Avatar do Canal]
+    E1 --> F3[Título · Canal · Visualizações]
+```
 
 ## 👨‍💻 Desenvolvido por
 
@@ -70,6 +100,28 @@ This project is a simplified clone of the main YouTube interface, developed as p
 - `index.html` - Page structure
 - `style.css` - Styling with Flexbox
 - `imagens/` - Icons and avatar
+
+## 🗺️ Component Architecture
+
+```mermaid
+graph TD
+    A[YouTube Clone Page] --> B[Header / Navigation Bar]
+    A --> C[Sidebar]
+    A --> D[Main Content]
+
+    B --> B1[YouTube Logo]
+    B --> B2[Search Bar]
+    B --> B3[Action Icons\nNotifications · Avatar]
+
+    C --> C1[Navigation Menu\nHome · Explore · Subscriptions]
+    C --> C2[Subscribed Channels]
+
+    D --> D[Video Grid\nFlex Wrap]
+    D --> E1[Video Card]
+    E1 --> F1[Thumbnail]
+    E1 --> F2[Channel Avatar]
+    E1 --> F3[Title · Channel · Views]
+```
 
 ## 👨‍💻 Developed by
 
